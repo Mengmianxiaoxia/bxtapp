@@ -1,0 +1,7 @@
+{
+  "name": "bxtapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
